@@ -1,0 +1,18 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /identity
+spring:
+  datasource:
+    url: "jdbc:mysql://localhost:3306/myDB"
+    username: root
+    password: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+jwt:
+  signerKey: "+zXwSlZocVaf56fkMN927OlsRY0I7/oNcbx8tMT/E4WmfOAmB0GYb912rfCdfglT"
+admin:
+  username: "admin"
+  password: "admin123"
