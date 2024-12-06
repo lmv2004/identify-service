@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="3">
   <diagram id="gZ0tEoZuQSUPYvwVcLYd" name="Page-3">
-    <mxGraphModel dx="1858" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="619" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,8 +100,8 @@
         <mxCell id="UXEZ9jactyvSo2chFANo-16" value="TC3: x = 1&lt;br&gt;(hợp lệ)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UXEZ9jactyvSo2chFANo-23" value="TC4: x = 2&lt;br&gt;(hợp lệ)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="80" height="40" as="geometry" />
+        <mxCell id="UXEZ9jactyvSo2chFANo-23" value="TC15: x = 2&lt;br&gt;(hợp lệ)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UXEZ9jactyvSo2chFANo-24" value="TC5: x = 29&lt;br&gt;(hợp lệ)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="595" y="280" width="90" height="40" as="geometry" />
